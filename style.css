@@ -35,10 +35,6 @@ padding: 24px;
   font-size: 18px;
 }
 
-.menu-iten:hover {
-  background-color: rgba(236, 214, 196, 0.53);
-}
-
 .content {
   margin-bottom: 48px;
   border-top: 0.4px solid  #FFF2E7;
