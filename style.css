@@ -8,7 +8,7 @@
 
 body{
   font-size: 100%;
-  background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+  background: linear-gradient(68.15deg, #d893b0 16.62%, #b6d8e2  85.61%);
 }
 
 .header {
@@ -30,14 +30,14 @@ padding: 24px;
 
 .menu-iten {
   font-family: 'Sarala', sans-serif;
-  color: #FFF2E7;
+  color: #573B38;
   font-weight: 400;
   font-size: 18px;
 }
 
 .content {
   margin-bottom: 48px;
-  border-top: 0.4px solid  #FFF2E7;
+  border-top: 0.4px solid  #6b4945;
 }
 
 .content-main {
@@ -58,26 +58,27 @@ padding: 24px;
   font-family: 'Righteous', cursive;
   font-weight: 400;
   font-size: 64px;
-  color: #FFF2E7;
+  color: #6b4945;
 }
 
 .text-subtitle {
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
   font-size: 24px;
-  color: #ECD6C4;
+  color: #8E5D52;
 }
 
 .btn-balle {
-  background: #ECD6C4;
-  width: 180px;
-  height: 60px;
+  background-color: rgba(256, 204, 176, 0.43);
+  width: 150px;
+  height: 50px;
   border: none;
   box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 22px;
+  color: #573B38;
 }
 
 .btn-balle:hover {
@@ -97,12 +98,12 @@ padding: 24px;
 }
 
 .second-title {
-  border-top: 0.4px solid #FFF2E7;
+  border-top: 0.4px solid #573B38;
   padding-top: 48px;
   font-family: 'Righteous', cursive;
   font-weight: 400;
   font-size: 24px;
-  color: #FFF2E7;
+  color: #6b4945;
   margin-bottom: 16px;
 }
 
@@ -110,12 +111,12 @@ padding: 24px;
   font-family: 'Sarala', sans-serif;
   font-weight: 300;
   font-size: 18px;
-  color: #ECD6C4;
+  color: #8E5D52;
 }
 
 .footer {
   padding: 32px;
-  border-top: 0.4px solid #FFF2E7;
+  border-top: 0.4px solid #6b4945;
 }
 
 .footer-img {
